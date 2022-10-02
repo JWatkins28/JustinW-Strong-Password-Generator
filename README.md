@@ -27,7 +27,7 @@ THEN the password is either displayed in an alert or written to the page
 ---
 
 ## **Preview**
-![Website Preview](./assets/Screenshot.PNG)
+![Website Preview](./assets/screenshot.PNG)
 
 ---
 
