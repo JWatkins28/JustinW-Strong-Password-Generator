@@ -33,7 +33,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## **Usage & Live Link**
 
-To view/use this project, it can be accessed by going to [https://jwatkins28.github.io/JustinW-Strong-Password-Generator/](https://jwatkins28.github.io/JustinW-Strong-Password-Generator/). Feel free to generate a strong password for the next account you create! If you'd like to view the code you can use the DevTools in your browser or view the files in the repository. 
+To view/use this project, it can be accessed by going to [https://jwatkins28.github.io/Strong-Password-Generator/](https://jwatkins28.github.io/Strong-Password-Generator/). Feel free to generate a strong password for the next account you create! If you'd like to view the code you can use the DevTools in your browser or view the files in the repository. 
 
 ---
 
